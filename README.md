@@ -1,4 +1,4 @@
-# XentoPractice demo 
+
 
 
 <h1 align="center">Front End Interview Handbook</h1>
