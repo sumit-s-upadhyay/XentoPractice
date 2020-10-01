@@ -62,3 +62,5 @@ You might be interested in the [Tech Interview Handbook](https://yangshun.github
 1. [CSS Questions](/contents/en/css-questions.md)
 1. [JavaScript Questions](/contents/en/javascript-questions.md)
 
+thank you
+
