@@ -5,7 +5,6 @@
 
 <div align="center">
   <a href="https://dribbble.com/shots/4263961-Front-End-Interview-Scroll">
-    <img src="assets/scroll.svg" alt="Front End Interview Handbook" width="400"/>
     </a>
   <br/>
  
